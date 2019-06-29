@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">measurementConverter</string>
+    <string name="Conversion">conView</string>
+    <string name="kilometer_Num">Kilometer</string>
+    <string name="kilometer_num">Kilometer</string>
+    <string name="miles_num">Miles</string>
+    <string name="kilometer_num1">Kilometers</string>
+
+    <String-array name="conversion">
+        <item>Miles to KiloMeters</item>
+        <item>KiloMeters to Miles</item>
+        <item>Inches to Centimeters</item>
+        <item>Centimeters to Inches</item>
+
+    </String-array>
+</resources>
