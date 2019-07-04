@@ -1,14 +1,9 @@
 <resources>
     <string name="app_name">measurementConverter</string>
-    <string name="Conversion">conView</string>
-    <string name="kilometer_Num">Kilometer</string>
-    <string name="kilometer_num">Kilometer</string>
-    <string name="kilometer_num1">Kilometers</string>
-    <string name="button_click">Click Ok</string>
-    <string name="conversion_spiner">Conversion</string>
-    <string name="miles_num">Miles</string>
+    <string name="inches">Inches</string>
+    <string name="centimeters">Centimeters</string>
     <string name="miles">Miles</string>
     <string name="kilometers">Kilometers</string>
-
+    <string name="conversion">Conversion</string>
 
 </resources>
